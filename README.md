@@ -1,4 +1,4 @@
-# tiny-owl-npm-scan
+# @tiny-owl-kit/tiny-owl-npm-scan
 
 🦉 Scan your project's `package.json` for malicious npm packages from a curated CSV list.
 
@@ -16,13 +16,13 @@
 ### Global installation (CLI usage)
 
 ```bash
-npm install -g tiny-owl-npm-scan
+npm install -g @tiny-owl-kit/tiny-owl-npm-scan
 ```
 
 ### Local installation (programmatic usage)
 
 ```bash
-npm install --save-dev tiny-owl-npm-scan
+npm install --save-dev @tiny-owl-kit/tiny-owl-npm-scan
 ```
 
 ## CLI Usage
@@ -57,16 +57,16 @@ tiny-owl-npm-scan https://example.com/malicious-packages.csv
 
 ```bash
 # Scan with bundled list
-npx tiny-owl-npm-scan
+npx @tiny-owl-kit/tiny-owl-npm-scan
 
 # Scan with custom list
-npx tiny-owl-npm-scan path/to/malicious-packages.csv
+npx @tiny-owl-kit/tiny-owl-npm-scan path/to/malicious-packages.csv
 ```
 
 ## Programmatic Usage
 
 ```typescript
-import { scanPackages } from "tiny-owl-npm-scan";
+import { scanPackages } from "@tiny-owl-kit/tiny-owl-npm-scan";
 
 // Scan with bundled malicious package list (recommended)
 const result = await scanPackages();
@@ -187,7 +187,7 @@ npm run security:scan
 ### Custom scanning in Node.js
 
 ```typescript
-import { scanPackages, ScanResult } from "tiny-owl-npm-scan";
+import { scanPackages, ScanResult } from "@tiny-owl-kit/tiny-owl-npm-scan";
 
 async function auditProject() {
   // Use bundled list (recommended)
