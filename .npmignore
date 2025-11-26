@@ -1,0 +1,47 @@
+# Source files
+src/
+tests/
+*.test.ts
+*.spec.ts
+
+# Configuration files
+tsconfig.json
+jest.config.js
+.eslintrc.*
+.prettierrc.*
+.github/
+
+# Documentation (keep README.md)
+docs/
+
+# Development files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build artifacts that shouldn't be published
+coverage/
+.nyc_output/
+
+# Environment
+.env*
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# CI/CD
+.travis.yml
+.circleci/
+
+# Other
+checkPackages.ts

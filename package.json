@@ -1,0 +1,55 @@
+{
+  "name": "tiny-owl-npm-scan",
+  "version": "1.0.1",
+  "description": "Scan your project's package.json for malicious packages from a CSV list",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "tiny-owl-npm-scan": "./bin/tiny-owl-npm-scan.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "prepublishOnly": "npm run build && npm test",
+    "lint": "eslint src/**/*.ts",
+    "format": "prettier --write \"src/**/*.ts\" \"tests/**/*.ts\""
+  },
+  "keywords": [
+    "security",
+    "npm",
+    "malicious",
+    "packages",
+    "scan",
+    "dependencies",
+    "audit"
+  ],
+  "author": "Vladimir Rancic <info@np011.se>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/net-partner-011-ab/tiny-owl-npm-scan"
+  },
+  "files": [
+    "dist",
+    "bin",
+    "list",
+    "README.md",
+    "LICENSE"
+  ],
+  "devDependencies": {
+    "@types/jest": "^29.5.11",
+    "@types/node": "^20.10.6",
+    "@typescript-eslint/eslint-plugin": "^6.16.0",
+    "@typescript-eslint/parser": "^6.16.0",
+    "eslint": "^8.56.0",
+    "jest": "^29.7.0",
+    "prettier": "^3.1.1",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.3.3"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
