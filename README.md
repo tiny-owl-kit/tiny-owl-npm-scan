@@ -241,7 +241,7 @@ MIT
 
 ## Security
 
-If you discover a security vulnerability, please email [your-email@example.com].
+If you discover a security vulnerability, please email [info@np011.se].
 
 ## Acknowledgments
 
