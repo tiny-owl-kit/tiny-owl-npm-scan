@@ -1,5 +1,10 @@
 # @tiny-owl-kit/tiny-owl-npm-scan
 
+[![npm version](https://badge.fury.io/js/%40tiny-owl-kit%2Ftiny-owl-npm-scan.svg)](https://www.npmjs.com/package/@tiny-owl-kit/tiny-owl-npm-scan)
+[![npm downloads](https://img.shields.io/npm/dm/@tiny-owl-kit/tiny-owl-npm-scan.svg)](https://www.npmjs.com/package/@tiny-owl-kit/tiny-owl-npm-scan)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Node.js Version](https://img.shields.io/node/v/@tiny-owl-kit/tiny-owl-npm-scan.svg)](https://nodejs.org)
+
 🦉 Scan your project's `package.json` for malicious npm packages from a curated CSV list.
 
 ## Features
