@@ -220,9 +220,10 @@ safe-pkg-2,Another safe package`;
     });
 
     it("should return a Promise", () => {
-      // This will fail in actual execution but tests the type
       const result = fetchUrl("http://example.com");
       expect(result).toBeInstanceOf(Promise);
+      // Prevent the real network call from surfacing as an unhandled rejection
+      result.catch(() => undefined);
     });
   });
 });
