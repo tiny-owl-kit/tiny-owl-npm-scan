@@ -1,6 +1,6 @@
 {
   "name": "@tiny-owl-kit/tiny-owl-npm-scan",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Scan your project's package.json for malicious packages from a CSV list",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
