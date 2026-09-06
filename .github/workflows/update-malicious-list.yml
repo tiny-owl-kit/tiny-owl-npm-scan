@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  id-token: write # npm OIDC trusted publishing (requires Node >= 22.14.0 + npm >= 11.5.1)
 
 jobs:
   update-and-publish:
@@ -21,7 +22,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "20.x"
+          node-version: 24 # OIDC trusted publishing needs Node >= 22.14.0
           cache: "npm"
           registry-url: "https://registry.npmjs.org"
 
@@ -62,8 +63,10 @@ jobs:
           git tag "v$VERSION"
           git push origin main --follow-tags
 
+      - name: Update npm CLI
+        if: steps.diff.outputs.changed == 'true'
+        run: npm install -g npm@latest # trusted publishing requires npm CLI >= 11.5.1
+
       - name: Publish to npm
         if: steps.diff.outputs.changed == 'true'
         run: npm publish --access public
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
