@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "bin": {
-    "tiny-owl-npm-scan": "./bin/tiny-owl-npm-scan.js"
+    "tiny-owl-npm-scan": "bin/tiny-owl-npm-scan.js"
   },
   "scripts": {
     "build": "tsc",
@@ -30,7 +30,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tiny-owl-kit/tiny-owl-npm-scan"
+    "url": "git+https://github.com/tiny-owl-kit/tiny-owl-npm-scan.git"
   },
   "files": [
     "dist",
