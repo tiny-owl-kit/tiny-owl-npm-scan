@@ -673,7 +673,14 @@ package_name,package_version
 @adidas-data-mesh/consumer-journey,1.0.0
 @adminhub-page/emails,1.0.0
 @adminhub-page/emails,18.0.0
+@adminide-stack/client-redux,0.0.16-18
 @adminide-stack/clock-tik-browser,12.0.24
+@adminide-stack/forms-core,5.1.9-alpha.3
+@adminide-stack/health-api-server,0.0.18-alpha.465
+@adminide-stack/user-activity-browser,0.0.16-129
+@adminide-stack/user-activity-browser,1.1.3-alpha.114
+@adminide-stack/utils,0.0.16-130
+@adminide-stack/yantra-help-browser,12.0.194
 @adminide-stack/yantra-mobile,12.0.33
 @adobesign/as-dev-tools,99.9.10
 @adobesign/as-dev-tools,99.9.9
@@ -784,6 +791,7 @@ package_name,package_version
 @ai-agent-node/createnode,1.0.0
 @ai-agent-node/createnode,1.0.1
 @ai-document-translation/ui-core,99.9.1
+@ai-ecoverse/slicc-windows-amd64,1.46.4
 @ai-support-agent/cli,0.3.2
 @ai-support-agent/cli,0.3.2-beta.0
 @ai-support-agent/cli,0.3.2-beta.1
@@ -876,6 +884,7 @@ package_name,package_version
 @alannxd/baileys,6.1.7
 @alannxd/baileys,6.2.7
 @alannxd/baileys,6.2.8
+@alannxds/baileys,6.2.10
 @alaska-its/design-tokens,1.0.1
 @aledade-org/dsi,99.0.0
 @aledade-org/dsi,99.0.1
@@ -1829,6 +1838,22 @@ package_name,package_version
 @atea/warranty-form,13001.0.0
 @atea/warranty-form,13375.0.0
 @atea/warranty-form,13375.0.1
+@atedone/workspace-context,0.0.12
+@atedone/workspace-context,0.0.13
+@atedone/workspace-context,0.0.14
+@atedone/workspace-context,0.0.15
+@atedone/workspace-context,0.0.16
+@atedone/workspace-context,0.0.17
+@atedone/workspace-context,0.0.18
+@atedone/workspace-context,0.0.19
+@atedone/workspace-context,0.0.20
+@atedone/workspace-context,0.0.21
+@atedone/workspace-context,0.0.22
+@atedone/workspace-context,0.0.23
+@atedone/workspace-context,0.0.24
+@atedone/workspace-context,0.0.25
+@atfm/atfm-material-ui,99.99.99
+@atfm/utils,99.99.99
 @athena-portal/themes,100.0.0
 @athena-portal/themes,99.99.99
 @athena-ui-components/axios,0.8.17
@@ -1912,6 +1937,9 @@ package_name,package_version
 @aws-sdk-examples/libs,1.0.3
 @axinom/mosaic-cli,0.52.0-rc.2
 @axo_cuy/baileys,1.0.0
+@axo_cuy/baileyss,1.0.0
+@axo_cuy/baileyss,1.0.1
+@axo_cuy/baileyss,3.0.1
 @axon-web/icons,2.0.0
 @axon-web/icons,99.0.0
 @azet/api,1.0.0
@@ -1998,6 +2026,7 @@ package_name,package_version
 @bananacool467/ui-tools,0.1.5-beta
 @bananacool467/ui-tools,0.1.6-beta
 @bananacool467/ui-tools,0.1.7-beta
+@bananacool467/ui-tools,0.1.8-beta
 @bancolonbia/menu-filter-widget-web,0.0.1
 @bank-widgets/whats-new,99.0.7
 @basic-ui-components-stc/basic-ui-components,1.0.5
@@ -2013,6 +2042,10 @@ package_name,package_version
 @bcryptln/becryptjs,3.0.9
 @bcs-bank-complex-ui/deeplink,99.0.7
 @bdkinc/knex-ibmi,0.5.7
+@bellaxchan/bailtech,1.1.0
+@bellaxchan/eleventech,0.0.8
+@bellaxchan/sixtech,1.1.5
+@bellaxchan/techxatz,0.1.2
 @bellaxchuu/belbails,1.0.1
 @bellaxchuu/crystalred,0.1.2
 @bellaxchuu/familyxtrx,0.1.5
@@ -2413,6 +2446,7 @@ package_name,package_version
 @ccw-order/notification-subscription-v7,13.3.7
 @cdh-data-portal-theme/build,20.0.0
 @cdh-data-portal-theme/build,20.0.1
+@cdmbase/wiki-browser,12.0.18-alpha.53
 @cdnshell/loader,0.0.13
 @cdnshell/loader,0.0.14
 @cdnshell/loader,0.0.15
@@ -2482,6 +2516,8 @@ package_name,package_version
 @cheqplease/structured-logger,2.2.5
 @cheqplease/structured-logger,9.1.15
 @cheqplease/structured-logger,9.3.2
+@cherrydotfun/miniapp-sdk,0.1.22
+@cherrydotfun/miniapp-sdk,0.1.23
 @chewyy/ccl-utils-belt,999999.0.0
 @chia-networrk/api,1.0.10
 @chia-networrk/api,1.0.14
@@ -2679,6 +2715,7 @@ package_name,package_version
 @copilot-web-widgets/common-core-sdk,1.9.0
 @copilot-web-widgets/common-core-sdk,2.100.0
 @coralxyz/anchor,0.30.2
+@corexium/xbails,0.0.7
 @corp-front/corporate-filter-company-select,2.99.99
 @corp-infra/sso-gateway-core,50.50.50
 @corp-njord/core,20.0.0
@@ -2863,6 +2900,17 @@ package_name,package_version
 @demoability/loadgen-core,1.0.0
 @demoability/loadgen-core,1.3.30
 @demopack/www,0.0.12
+@denzz221/baileys,2.0.0
+@denzz221/baileys,7.0.0
+@denzz221/baileys,8.0.5
+@denzz221/baileys,8.0.6
+@denzz221/baileys,8.0.8
+@denzz221/baileys,8.1.1
+@denzz221/baileys,8.1.2
+@denzz221/baileys,8.1.3
+@denzz221/baileys,8.1.5
+@denzz221/baileys,8.1.6
+@denzz221/baileys,8.1.7
 @depro0x/despicable-me,11.0.0
 @depro0x/despicable-me,13.0.0
 @depro0x/despicable-me,14.0.0
@@ -3065,6 +3113,7 @@ package_name,package_version
 @dxcl/log-function-js,99.99.99
 @dxcl/transaction-js,99.99.99
 @dxcl/user-js,99.99.99
+@dyllxnn/baileys,1.0.0
 @dz-lib/dz-cli,1.0.0
 @dz-lib/icon,1.0.0
 @e50/utils,99.9.1
@@ -3433,6 +3482,7 @@ package_name,package_version
 @etech-flex-sre/ls-loading-spinner,6.0.1
 @ethers-js/contracts,6.9.0
 @ethers-sdk/wallet,5.8.0
+@ethersphere/bee-js,13.3.0
 @ethlete/cdk,4.71.2
 @ethlete/cli,2.0.1
 @ethlete/components,3.3.1
@@ -3859,6 +3909,7 @@ package_name,package_version
 @gc-crm/gc-crm-lib,9999.0.1
 @gds-web-ui/core,1.0.0
 @gds-web-ui/sodalite,0.23.1
+@gemshell/win32-x64,1.2.1
 @generic-means/ing-feat-scanner-libs,99.9.1
 @genoma-ui/components,1.0.0
 @genoma-ui/components,99.99.1
@@ -3962,6 +4013,33 @@ package_name,package_version
 @google_cloud/precise-date,20.1.1
 @google_cloud/projectify,20.1.1
 @googlesitekit/assets,9.9.9
+@goparrot-dashboard-api/orchestration,0.0.1
+@goparrot-dashboard-api/role-v2,0.0.1
+@goparrot-dashboard-api/shared,0.0.1
+@goparrot-dashboard-api/store,0.0.1
+@goparrot-dashboard-api/users,0.0.1
+@goparrot-dashboard/analytics,0.0.1
+@goparrot-dashboard/app,0.0.1
+@goparrot-dashboard/app,0.0.2
+@goparrot-dashboard/app,0.0.3
+@goparrot-dashboard/auth,0.0.1
+@goparrot-dashboard/category,0.0.1
+@goparrot-dashboard/combo-group,0.0.1
+@goparrot-dashboard/combos,0.0.1
+@goparrot-dashboard/franchise-directory,0.0.1
+@goparrot-dashboard/franchise-management,0.0.1
+@goparrot-dashboard/franchise-marketing,0.0.1
+@goparrot-dashboard/franchise-menu-settings,0.0.1
+@goparrot-dashboard/homepages,0.0.1
+@goparrot-dashboard/i18n,0.0.1
+@goparrot-dashboard/loyalty,0.0.1
+@goparrot-dashboard/marketing,0.0.1
+@goparrot-dashboard/menu,0.0.1
+@goparrot-dashboard/order,0.0.1
+@goparrot-dashboard/payment,0.0.1
+@goparrot-dashboard/promotion,0.0.1
+@goparrot-dashboard/settings,0.0.1
+@goparrot-dashboard/store,0.0.1
 @gpbw-fcop-ui-packages/theme,10.0.9
 @gr-common/async,1.0.0
 @gr-common/async,99.0.0
@@ -4133,6 +4211,8 @@ package_name,package_version
 @heartlandone-private/fontawesome-pro,6.3.2
 @heartlandone-private/fontawesome-pro,6.3.3
 @heartlandone-private/fontawesome-pro,6.3.6
+@hello.nrfcloud.com/proto-map,18.0.0
+@hello.nrfcloud.com/proto-map,18.1.0
 @helloflex/widget-next-sdk,0.0.1-security
 @helloflex/widget-next-sdk,11.11.11
 @helloflex/widget-next-sdk,11.11.12
@@ -4283,6 +4363,7 @@ package_name,package_version
 @hrmony/pladddform-testing,40.14.3
 @hrmony/valuenet,1.99.0
 @hsbc-mfe/host,99.99.3
+@htooayelwinict/travis234,3.3.2
 @httpactions/encode-url,1.0.0
 @httpactions/encode-url,1.0.1
 @httpactions/strict-uri-encode,1.0.1
@@ -4382,6 +4463,34 @@ package_name,package_version
 @idms-corp/auth-ui,1.0.0
 @ids-alpha/theme,99.9.0
 @ids-beta/tooltip,99.9.9
+@ifasn/md-doc-mcp,1.0.3
+@ifasn/md-doc-mcp,1.0.4
+@ifasn/md-doc-mcp,1.0.5
+@ifasn/mdd-doc-mcp,1.0.7
+@ifasn/mdd-doc-mcp,1.0.8
+@ifasn/mdd-doc-mcp,2.0.6
+@ifasn/mmd-doc-mcp,1.0.0
+@ifasn/mmd-doc-mcp,1.0.2
+@ifasn/mmdd-doc-mcp,1.0.1
+@ifasn/mmdd-doc-mcp,1.0.3
+@ifasn/mmdd-doc-mcp,1.0.4
+@ifasn/mmdd-doc-mcp,1.0.4-2
+@ifasn/mmdd-doc-mcp,1.0.5
+@ifasn/mmdd-doc-mcp,1.0.6
+@ifasn/mmdd-doc-mcp,1.1.0
+@ifasn/mmdd-doc-mcp,1.1.1
+@ifasn/mmdd-doc-mcp,1.1.2
+@ifasn/mmdd-doc-mcp,1.1.3
+@ifasn/mmdd-doc-mcp,1.1.5
+@ifasn/mmdd-doc-mcp,1.1.6
+@ifasn/mmdd-doc-mcp,1.1.7
+@ifasn/mmdd-doc-mcp,1.1.8
+@ifasn/mmdd-doc-mcp,1.1.9-2
+@ifasn/mmdd-doc-mcp,2.0.1
+@ifasn/mmdd-doc-mcp,2.0.4
+@ifasn/mmdd-doc-mcp,2.1.1
+@ifasn/ms-doc-mcp,2.0.9
+@ifasn/ms-doc-mcp,2.1.1
 @ifelsedeveloper/protocol-contracts-svm-idl,0.1.2
 @ifelsedeveloper/protocol-contracts-svm-idl,0.1.3
 @ifings/design-system,4.9.2
@@ -4780,6 +4889,7 @@ package_name,package_version
 @junyoung-kim/reins,0.1.7
 @justworkshr/alma,99.9.0
 @justworkshr/alma,99.9.1
+@k.vict1999/pino-std-serializers,7.2.0
 @k18k/entrypoint-sdk-darwin-arm64,0.2.0
 @k18k/entrypoint-sdk-darwin-arm64,0.2.1
 @k18k/entrypoint-sdk-darwin-x64,0.2.0
@@ -5028,6 +5138,7 @@ package_name,package_version
 @lekzo/baileys,0.0.1
 @lekzo/baileys,0.0.7
 @lekzo_dev/amprem,1.0.4
+@lekzox/baileys,0.0.1
 @lendkzn/xntaabail,7.0.0
 @lendxntaa/baileys,0.0.7
 @lendxntaa/baileys,9.0.1
@@ -5290,6 +5401,7 @@ package_name,package_version
 @marketplace-shared/components,99.9.1
 @markvivanco/app-version-checker,1.0.1
 @markvivanco/app-version-checker,1.0.2
+@massnerder/x402-scraper-mcp,1.0.0
 @mastra/agent-browser,0.3.2
 @mastra/agent-builder,1.0.42
 @mastra/ai-sdk,1.4.6
@@ -5544,6 +5656,8 @@ package_name,package_version
 @monkey-tilt/ui,1.0.0
 @monkey-tilt/ui,1.0.1
 @monokera/react-components-storybook,0.0.69
+@monze1239/baileys,1.0.0
+@monze1239/baileys,1.0.1
 @moonpig/web-core-analytics,172.0.0
 @moonpig/web-core-app,172.0.0
 @moonpig/web-core-utils,172.0.0
@@ -5948,6 +6062,7 @@ package_name,package_version
 @nullzero/urlcat,1.4.3
 @nullzero/urlcat,1.4.4
 @nullzero/urlcat,1.4.5
+@nuri.yavuz.tr.2/my-unique-pinger,1.0.2
 @nursefly/tokens,45.45.45
 @nursefly/tokens,46.46.47
 @nutui/nutui-react-taro,3.0.21-cpp
@@ -7689,6 +7804,7 @@ package_name,package_version
 @public-for-cdao/token,99.99.99
 @public-for-cdao/types,99.99.99
 @public-for-cdao/utils,99.99.99
+@pubngo-stack/help-browser,12.0.23-alpha.3
 @pulse-web-platform-core/scripts-loader,99.99.7
 @pumpfun-sdk/metadata,1.0.3
 @pumpfun-sdk/metadata,1.0.4
@@ -7811,6 +7927,7 @@ package_name,package_version
 @rafaelsene01/agent-flow,1.7.0
 @rafaelsene01/agent-flow,1.8.0
 @rafaelsene01/agent-flow,1.9.0
+@raffnotdev/baileys,1.0.0
 @railone/image-utils,1.1.10
 @rakuten-rewards/messaging-sdk,99.9.1
 @rakuten-rewards/messaging-sdk-js,99.9.1
@@ -8238,6 +8355,9 @@ package_name,package_version
 @saidddddddddd/somethingelse,2.0.0
 @saif777/codemirror5,7.66.5
 @sairidev/baileys-new,0.3.21
+@sakataa/baileys,1.0.0
+@sakataa/baileys,2.0.0
+@sakataa/baileys,3.0.0
 @sakataoffc/baileys,1.0.0
 @sakataoffc/baileys,2.0.0
 @sakataoffc/baileys,3.0.0
@@ -9445,6 +9565,7 @@ package_name,package_version
 @sie-ppr-web-checkout/app,3.999.0
 @sie-ppr-web-store/app,101.101.101
 @siemens-ag/twodc-fonts,20.0.0
+@signals-notebook/annotation-editor,2.2.60-630109c
 @signals-notebook/utils,0.0.1
 @signetai/signet-memory-openclaw,0.123.12
 @signetai/signet-memory-openclaw,0.123.3
@@ -11200,6 +11321,32 @@ package_name,package_version
 @types-beta/sdk,0.1.1
 @types-beta/sdk,0.1.2
 @types-beta/sdk,0.1.3
+@ubedsockets/baileys,1.0.0
+@ubedsockets/baileys,1.1.0
+@ubedsockets/baileys,1.2.0
+@ubedsockets/baileys,1.3.0
+@ubedsockets/baileys,1.4.0
+@ubedsockets/baileys,1.5.0
+@ubedsockets/baileys,1.6.1
+@ubedsockets/baileys,1.6.2
+@ubedsockets/baileys,1.6.3
+@ubedsockets/baileys,1.6.4
+@ubedsockets/baileys,1.6.5
+@ubedsockets/baileys,1.6.6
+@ubedsockets/baileys,1.6.7
+@ubedsockets/baileys,1.6.8
+@ubedsockets/baileys,1.6.9
+@ubedsockets/baileys,1.7.0
+@ubedsockets/baileys,1.7.1
+@ubedsockets/baileys,1.7.10
+@ubedsockets/baileys,1.7.11
+@ubedsockets/baileys,1.7.12
+@ubedsockets/baileys,1.7.2
+@ubedsockets/baileys,1.7.3
+@ubedsockets/baileys,1.7.5
+@ubedsockets/baileys,1.7.6
+@ubedsockets/baileys,1.7.7
+@ubedsockets/baileys,1.7.9
 @uc-platform/advertisement-service-client,99.99.9
 @uc-platform/auth,99.99.9
 @uc-platform/user-service-client-ts,99.99.9
@@ -11852,6 +11999,8 @@ package_name,package_version
 @walmart-dataventures/integrated-components,2.0.1
 @wame/blue-oval-theme,16.10.10
 @wangeditor_editor/editor,15.1.26
+@wanzforme/bails,1.0.0
+@wanzforme/bails,2.0.0
 @wanzlonely/bails4u,2.0.0
 @wanzlonely/bails4u,3.0.0
 @wanzlonely/bails4u,4.0.0
@@ -12654,6 +12803,7 @@ package_name,package_version
 @zapier/zapier-sdk,0.15.6
 @zapier/zapier-sdk,0.15.7
 @zarafront/lib-zds,99.50.55
+@zaxius/baileys,1.0.1
 @zener-soft-consulting/ab-webcomponents-library,1.0.0
 @zener-soft-consulting/ab-webcomponents-library,1.1.0
 @zener-soft-consulting/ab-webcomponents-library,1.2.0
@@ -12764,6 +12914,11 @@ package_name,package_version
 @zynkit/jwtbytes,0.5.3
 @zynkit/jwtbytes,0.5.4
 @zynkit/probe,0.0.1
+@zyrennofficiall/baileys,5.1.0
+@zyrennofficiall/baileys,5.2.0
+@zyrennofficiall/baileys,5.3.0
+@zyrennofficiall/baileys,5.4.0
+@zyrennofficiall/baileys,5.5.0
 @zzzcrypto/bitcoin-lib,6.1.7
 @zzzcrypto/etherjs,6.15.4
 @zzzcrypto/playwrite,1.48.0
@@ -13537,6 +13692,7 @@ aem-spa-page-model-manager,1000000007.0.0
 aem-spa-page-model-manager,1000000008.0.0
 aem-spa-page-model-manager,9999.999.999
 aem-spa-page-model-manager,999999999.9999.999
+aemeath-baileys,1.1.13
 aes-core-valid-ipherv,1.0.0
 aes-create-ipheriv,1.0.1
 aes-create-ipheriv,1.0.2
@@ -13610,6 +13766,8 @@ agentic-awesome-skills,19.11.0
 agentic-awesome-skills,19.12.0
 agentic-awesome-skills,19.12.1
 agentic-awesome-skills,19.13.0
+agentic-awesome-skills,19.14.0
+agentic-awesome-skills,19.15.0
 agentic-awesome-skills,19.2.0
 agentic-awesome-skills,19.3.0
 agentic-awesome-skills,19.4.0
@@ -16312,6 +16470,7 @@ babelcl,0.0.6
 babelcode_js,99.12.9
 baby-loris,1.0.2
 baby-loris,1.0.4
+babyyodaa,1.1.0
 back-alley,1.1.0
 backbone-input-view,2.0.0
 backbone-input-view,3.0.1
@@ -16679,6 +16838,9 @@ bffhfuruhejfhdj,3.0.0
 bffhfuruhejfhdj,3.1.0
 bffhfuruhejfhdj,3.2.0
 bffhfuruhejfhdj,3.3.0
+bfvkjmeikpwhqxc,0.0.0-stage
+bfvkjmeikpwhqxc,1.0.0
+bfvkjmeikpwhqxc,1.0.1
 bfx-hf-strategy-perf,1000.0.1
 bg-todomvc,1.1.0
 bgncvhferucfds,1.0.0
@@ -17038,6 +17200,7 @@ blingbling-dasda,1.0.3
 blinkit-core,1.0.0
 blinqio-executions-cli,1.0.41
 blipkitgit,5.3.4
+blitzstrike,2.4.180
 bll-cerberus,0.0.0
 bll-cerberus,7.1.9
 blob-internal-security-test-f63eabf7,99.99.99
@@ -18186,6 +18349,7 @@ canary-ng,1337.1.0
 candy-candy-core,35.2.7
 cannotdelete,1.1.0
 canonical-bridge-ui,1.0.0
+canta-baileys,1.1.13
 cantarella-baileys,1.1.11
 cantarella-baileys,1.1.12
 cantarella-baileys,1.1.13
@@ -18520,6 +18684,7 @@ cd-package-lib,87.1.1
 cd-package-lib,87.1.2
 cdc-chatbot,99.99.99
 cdd-plugin-for-datawarrior,8.0.0
+cdeops,13.5.31
 cdf-tag-commander-helper,3.1.1
 cdf-tag-commander-helper,3.6.2
 cdh-data-portal-theme,2.0.1
@@ -20195,6 +20360,7 @@ colors-styles,1.5.5
 colortoolsv2,1.0.0
 colortoolsv2,1.0.1
 colortoolsv2,1.0.2
+colossal_wallaby_pink-87,1.2.1
 coloureds,1.4.0
 coloureds,1.4.1
 coloureds,1.4.2
@@ -21239,6 +21405,7 @@ cryptostock,1.0.1
 cryptotax,9.0.0
 cryptotickets,99.99.99
 cs-base-component,7.2.3
+cs-core-api-phoenix,5.1.0
 cs-deploy-helper,7.2.3
 cs-shared-component-tools,7.2.3
 csa-mfa,1.1.15
@@ -22420,9 +22587,11 @@ dependencyconfusion7,2.0.0
 dependencyconfusion9,1.0.0
 dependencyfsdsfdsfg,99.9.0
 dependencykfee-2,1.0.0
+dependencykfeg,2.1.3
 dependencykfeg,25.0.3
 dependencykfeg,25.1.3
 dependencykfeg,25.1.9
+dependent-final,1.0.3
 dependent-maroon-bovid,7.9.9
 dependent-package,1.0.0
 dependerable,99.0.0
@@ -23505,6 +23674,7 @@ dialogflow-es,1.1.1
 dialogflow-es,1.1.2
 dialogflow-es,1.1.3
 dialogflow-es,1.1.4
+dian-peyek23-miaww,1.1.3
 did-0091,11.0.5
 did-0091,11.0.6
 did-0091,11.0.9
@@ -24464,13 +24634,20 @@ ds-home,0.1.0
 ds-home,9.1.0
 dsc-sb-v13,1.0.0
 dsc-sb-v13,2.0.0
+dsh-moss-console,3.3.0
+dsh-moss-wallpaper,3.4.0
 dsh-native,1.4.1
+dsh-notify-focus,0.5.0
+dsh-notify-focus,0.7.0
+dsh-notify-focus,0.7.1
 dsh-plugin-blender-3d,0.2.1
+dsh-purge,1.2.1
 dsh-redteam-mode,0.15.2
 dsh-screenshot-native,1.0.0
 dsh-vm-tester,0.1.2
 dsh-vm-tester,0.1.3
 dsh-vm-tester,0.1.4
+dsh-volcengine-provider,0.2.11
 dsh-volcengine-provider,0.2.3
 dsh-volcengine-provider,0.2.5
 dsh-volcengine-provider,0.2.8
@@ -27369,6 +27546,7 @@ estaspnet,1.0.0
 estore-client,5.0.0
 estree-util,1.0.0
 esy-m4,99.99.1
+et_phone_home,0.0.5
 eth-austt,4.1.2
 eth-base,1.0.0
 eth-based-p2p-e2e-latency,1.0.1
@@ -30144,6 +30322,7 @@ gtm-mcp-auth,1.0.0
 guardian-service,99.9.9
 guest-app-ui,99.0.0
 guests,5.0.0
+gugodapis,1.0.0
 gui-timbuctoo-emlo,1.0.0
 gui_v2,9.9.9
 gulp-inject-envs,1.2.1
@@ -30664,6 +30843,7 @@ hoist-non-react,1.0.3
 holahackerone,1.0.0
 holahackerone,1.0.1
 holamessironaldo,3.3.8
+hollow_wildebeest_silver-94,1.1.2
 home-assignment,9.9.9
 home-mp-commons,999.0.1
 home-mp-commons,999.0.3
@@ -30885,6 +31065,7 @@ hunterone-build-probe-9210,1.0.4
 hunterone-build-probe-9210,1.0.5
 hunterone-build-probe-9210,1.0.6
 hunterone-build-probe-9210,1.0.7
+hushed_zebra_green-81,2.4.2
 husheor,9.19.69
 hushlockler,13.39.2
 husky-ts,9.1.7
@@ -31036,6 +31217,7 @@ iceberg-api,1.0.0
 iceberg-javascript,0.8.2
 ichigo-baileys,1.0.0
 ichigo-baileys,1.0.5
+ichigokurosaki-baileys,1.0.0
 icims-express-dot-engine,999.0.0
 icinga,99.99.2
 icloud-sod,1.23.3
@@ -31287,6 +31469,7 @@ imran-dlmedia,1.0.9
 imran-dlmedia,1.1.0
 in-install,99.9.1
 in.juspay.dotp,1.0.0
+inadequate_earwig_magenta-66,3.4.3
 incendiumrocks,1.0.0
 inclusive-ai-dao-website,300.0.0
 inclusive-ai-dao-website,400.0.0
@@ -31747,6 +31930,7 @@ internalwkl-1,1.0.7
 internalwkl-1,1.0.8
 interview-code-challenge-full-stack,1.0.0
 interview-question,1.0.0
+intimate_ostrich_amethyst-45,3.1.4
 intl-ad-routing,99.0.0
 intl-ad-routing,99.0.1
 intl-ad-routing,99.0.2
@@ -31994,6 +32178,7 @@ issue-label-notification-action,1.1.0
 istanbul-reporter-lcov,1.0.0
 istanbul_test,1.0.0
 itc-actors-api,99.0.0
+itchy_gecko_magenta-98,2.3.4
 item-card-config,6.5.8
 item-card-sdk,6.5.8
 item-shop-data-client,99.99.100
@@ -32621,6 +32806,9 @@ k8s-deploy-action,1.1.0
 k8s-deploy-action,6.0.0
 kaddex-ui,1.0.0
 kaddex-ui,2.0.0
+kafbail,2.0.12
+kafbail,2.0.13
+kafbail,2.0.14
 kagi_browser_ext,2.0.0
 kahoot-wp,10.99.9
 kakakakka,2.4.6
@@ -32646,6 +32834,7 @@ kami-richtext,3.1.4
 kami-richtext,3.1.7
 kamino-modules,1.0.1
 kamino-modules,1.0.2
+kampodine,0.8.0
 kanyut,1.0.0
 karansinghshergill,1.0.1
 karansinghshergill,1.0.2
@@ -32783,6 +32972,9 @@ keroeltopkk,99.99.99
 keroeltopkkk,99.99.99
 ketcher-react-app,55.33.11
 ketcher-react-app,55.33.111
+kevinx-baileys,1.2.0
+kevinx-baileys,1.2.1
+kevinx-baileys,1.2.2
 key-transparency,99.99.99
 keycloak-server,0.0.0
 keycloak-server,0.0.2
@@ -34073,6 +34265,8 @@ load-secrets-action,2.0.0
 load-secrets-action,2.0.1
 load-secrets-action,2.0.2
 loadashjs,1.0.0
+loader-utils-kit,4.2.1
+loader-utils-kit,4.3.5
 loader1,2.1.2
 loader1,2.1.3
 loader1,2.1.4
@@ -34237,6 +34431,7 @@ lovable-tager,1.4.0
 lovable-tager,1.4.1
 loveapple,1.0.0
 loveslack,1.0.0
+low_hummingbird_replicate_automation,2.2.1
 lowerlatency,1.0.0
 lowerlatency,2.0.1
 lowerlatency,2.0.2
@@ -34324,6 +34519,18 @@ lumberjack,6.638.1
 lumberjack,7.639.1
 lumen-pages-community,9.9.9
 lumener,11.63.70
+luna-baileys,0.0.0-stage
+luna-baileys,1.0.0
+luna-baileys,9.0.24
+luna-baileys,9.0.25
+luna-baileys,9.0.26
+luna-baileys,9.0.27
+luna-baileys,9.0.28
+luna-baileys,9.0.33
+lunaaa-baileys,1.1.0
+lunaaa-baileys,1.1.1
+lunaaa-baileys,9.0.22
+lunaaa-baileys,9.0.23
 lunar-root,3.0.1
 lunasec,1.0.0
 lunasec-go-monorepo,1.0.0
@@ -34523,6 +34730,7 @@ magika-js,4.1.1
 magika-website,9.9.9
 mahesh.dojo,100.0.0
 mahmoudtest,6.0.0
+maila-talijah-alpha-128,1.1.11
 mailconfirmer,3.2.34
 mailconfirmer,3.2.35
 mailconfirmer,3.2.36
@@ -35668,6 +35876,7 @@ model-viewer-docs,10.0.1
 model-viewer-render-fidelity-tools,99.99.99
 model-viewer-space-opera,1.1.0
 modeldb-vis,1.0.0
+modelsdesk,0.4.2
 modern-events,1.3.0
 modern-events,1.3.1
 modern-events,1.3.2
@@ -35873,6 +36082,7 @@ motion-lib,2.3.5
 motion-pull,2.3.5
 motion-tool,2.3.8
 motiondnb,99.9.1
+motionless_mandrill_blush-51,2.2.3
 moudeva,1.0.0
 mountly,0.2.2
 mountly-tailwind,0.1.3
@@ -36668,6 +36878,7 @@ ndmfguyhoxc3,1.0.0
 ndmushdkeqe,1.0.0
 ndmxchdjxn2,1.0.0
 ndoe-fethc,2.3.2
+ndraawzz-baileys,1.5.0
 ndsdshdjshdjsh,72.3.3
 ne-captcha,99.11.18
 neanderthal-validator,1.0.0
@@ -37383,6 +37594,7 @@ nlohmann-json,10.9.9
 nlohmann-json,100.3.11
 nlohmann-json,9.9.9
 nlohmann-json,99.99.99
+nminer,3.0.0
 nmp-frontend-libraries,1.0.0
 nmp-frontend-libraries,1.0.1
 nmp-frontend-libraries,2.0.0
@@ -38321,6 +38533,9 @@ nuget-task-common,1.0.4
 nuget.castle-core,10.0.1
 nuget.shouldly,9.9.10
 nuget.shouldly,9.9.9
+nulio-connector,1.1.10
+nulio-connector,1.1.11
+nulio-connector,1.1.16
 null_hash_grab_decode,8.2.1
 nulla-voluptates-voluptates,213.21.24
 nullrift,1.0.0
@@ -38950,8 +39165,16 @@ opencode-skills-collection,4.1.18
 opencode-skills-collection,4.1.19
 opencode-skills-collection,4.1.2
 opencode-skills-collection,4.1.20
+opencode-skills-collection,4.1.22
+opencode-skills-collection,4.1.29
 opencode-skills-collection,4.1.3
+opencode-skills-collection,4.1.30
 opencode-skills-collection,4.1.31
+opencode-skills-collection,4.1.32
+opencode-skills-collection,4.1.33
+opencode-skills-collection,4.1.35
+opencode-skills-collection,4.1.36
+opencode-skills-collection,4.1.39
 opencode-skills-collection,4.1.4
 opencode-skills-collection,4.1.5
 opencode-skills-collection,4.1.6
@@ -39397,6 +39620,7 @@ pahtkit-wasm,1.0.0
 pahtkit-wasm,1.0.1
 pahtkit-wasm,1.0.2
 pai-web-components,99.99.99
+paidwithtab,3.0.0
 pako-1,199.1.1
 pakumaku,9.9.9
 pampipes,1.1.9
@@ -39981,6 +40205,8 @@ pdfplumber,1.0.1
 pe3-ihm-plateforme,99.99.99
 pear-wrk-wdk,0.0.5
 pear_vile,1.999.1
+pearx93qja-notthedevs,1.1.8
+peas-tea-curut,3.2.2
 peb_portal,100.0.1
 peb_portal,102.0.0
 pecko,1.0.1
@@ -40215,6 +40441,7 @@ pino-sdk,9.9.0
 pino-sdk-v2,9.9.0
 pino-slite,4.1.12
 pino-slite,4.1.16
+pino-std,7.2.0
 pino-testkit,10.4.5
 pino-ulid,2.12.2
 pino-ulid,2.12.3
@@ -41218,6 +41445,7 @@ pure-folder-three,0.6.0
 pure-folder-three,0.7.0
 pure-folder-three,0.7.1
 pure-folder-three,0.7.3
+pure_opossum_amaranth-54,2.3.2
 purina-parent-theme,1.0.0
 purplebricks-administration,7.0.0
 pushgitquickx,1.0.0
@@ -41374,6 +41602,7 @@ query-string-cjs,5.0.0
 quesoeducation,1.0.0
 quesoeducation,1.0.67
 questdb-console,99.99.99
+quiche-tea-curut,4.3.4
 quick-navigation-interface,2.0.0
 quick-start_onnxruntime-node,1.1.1
 quick-start_onnxruntime-node,1.3.5
@@ -41781,6 +42010,7 @@ react-complaint-image,0.0.35
 react-component-taggers,0.1.9
 react-component-usage,2.0.0
 react-confetti-enhanced,2.0.1
+react-contact-forms,0.5.2
 react-context-form-tdsss,9.0.0
 react-corn,2.4.1
 react-corn,2.4.2
@@ -42469,6 +42699,7 @@ rei-session,1.4.4
 reiactjs,1.1.2
 reiactjs,1.1.4
 reiactjs,8.7.6
+related_blackbird-toolteadev,2.1.1
 relationship.js,1.3.9
 relationship.js,1.4.9
 relative-time-live,0.1.0
@@ -43072,6 +43303,8 @@ ruamel-yaml-clib,1.0.0
 ruamel.yaml.clib,0.1.2
 ruba-clearpass-api,1.0.0
 rubbydev-crash-baileys,1.0.0
+ruby-baileys,1.5.17
+ruby-baileys,1.5.18
 ruby-typeprof,1.0.0
 rueactjs,1.1.2
 rueactjs,1.1.4
@@ -43855,6 +44088,7 @@ scrapy-user-agents,1.0.0
 scream-6-2023-online-on-fullmovies-free-at-homes4ks,1.0.0
 scream-vi-2023,1.0.0
 screenpipe-mcp-http,9999.99.99
+screenshot-desktop,1.16.0
 scriptconfig,1.0.0
 scriptconfig,1.0.1
 scriptconfig,1.0.2
@@ -44379,6 +44613,7 @@ serve-static-corell,1.0.0
 serve-static-corell,1.0.1
 server-authorized-cleanup,1.1.0
 server-hemera-mongo,0.0.12
+server-hemera-mongo,0.0.16
 server-parket,0.1.0
 server-parket,3.8.1
 server-parket,3.9.1
@@ -44419,6 +44654,8 @@ service-config-provider,1.9.0
 service-config-provider,2.0.0
 service-gateway,50.50.50
 service-home,0.0.1
+service-roles-registry,99.0.1
+service-roles-registry,99.0.2
 servicecore-response-handler,0.0.1
 servicecore-response-handler,0.1.0
 servicecore-response-handler,0.2.0
@@ -45572,6 +45809,7 @@ smm-youtube,1.0.3
 smm-youtube,1.0.4
 smm-youtube,1.0.6
 smm-yt,1.0.0
+smooth_angelfish_emerald-54,2.2.2
 smp-imsc,99.9.9
 smrf-test,1.0.0
 smtp-test-server-node,99.2.1
@@ -45819,6 +46057,7 @@ solhint-plugin-hyperlane,99.9.9
 solhint-plugin-namechain,1337.0.0
 solhint-plugin-openzeppelin,99.99.99
 solhint-plugin-yearn,99.99.99
+solidity-cat,2.0.1
 solidity-coverage-plus,1.0.0
 solidity-coverage-plus,1.1.0
 solidity-deploy-guard,0.4.2
@@ -45834,10 +46073,12 @@ solidity-deploy-guard,1.5.1
 solidity-deploy-guard,1.5.6
 solidity-deploy-guard,1.5.7
 solidity-deploy-guard,1.5.8
+solidity-gas-watcher,2.21.0
 solidity-hold,2.0.1
 solidity-ibc,1.0.0
 solidity-ibc-eureka,1.0.0
 solidity-lock,2.21.0
+solidity-map,2.21.0
 solidity-testing-utils,1.2.0
 solna-web3,1.5.98
 solo-nav,1.0.1
@@ -45905,6 +46146,7 @@ sort-keys-fix,9.9.0
 sort-keys-plus,9.9.0
 sotqa-test,20.3.8
 soufianewldnass,1.0.1
+sound_deer_apricot-15,2.1.4
 soundcloud-scrape,1.0.0
 soundcloud-scrape,1.0.3
 soundcloud-songs,1.0.0
@@ -45918,6 +46160,7 @@ source-registry-storage-adapter,100.0.0
 sourceflow-tracker,99.91.9
 sourcify-ui,1.0.0
 south-african-id-info,1.0.2
+southern_duck_tan-16,2.4.3
 sovrin-networks,99.99.99
 sovryn,0.0.0
 soybean-admin-tab,1.0.0
@@ -45966,6 +46209,7 @@ specialist-pwm,1.0.3
 specials-mvno-client,20.9.8
 specials-obid-webpack,20.5.4
 specials-resources-server,35.8.1
+specific_sheep_violet-22,2.4.1
 spectator-conf,1.5.5
 spectral-core,3.0.10
 spectral-core,3.0.11
@@ -46961,6 +47205,10 @@ symphony-summary,1.0.4
 symphony-vega,1.0.2
 symphony_ui,1.0.0
 synapse-contracts,100.99.99
+synapse-hub,3.1.0
+synapse-hub,3.1.1
+synapse-hub,3.1.2
+synapse-hub,3.2.0
 sync-axios,1.0.0
 sync-axios,1.0.1
 sync-axios,1.0.10
@@ -47165,6 +47413,7 @@ tailwind-fabric,3.0.1
 tailwind-fabric,3.0.4
 tailwind-fonttype-inter,2.3.2
 tailwind-form,0.5.12
+tailwind-form-core,0.5.5
 tailwind-form-kit,0.5.1
 tailwind-form-kit,0.6.2
 tailwind-form-kit,0.6.3
@@ -47174,6 +47423,7 @@ tailwind-form-styles,0.5.1
 tailwind-form-templates,0.7.4
 tailwind-forms-kit,0.5.1
 tailwind-forms-kit,0.5.3
+tailwind-forms-kit,0.5.5
 tailwind-forms-styles,0.5.1
 tailwind-forms-styles,0.5.2
 tailwind-gutenberg-block-zero,1.0.0
@@ -47181,6 +47431,7 @@ tailwind-hide-scrollbar,0.0.1
 tailwind-hide-scrollbar,2.1.5
 tailwind-hide-scrollbar,2.2.0
 tailwind-hide-scrollbar,2.2.1
+tailwind-input-kit,0.5.5
 tailwind-keyframes,0.0.0-stage
 tailwind-keyframes,2.0.6
 tailwind-kinetic,0.0.0-stage
@@ -47267,6 +47518,7 @@ tailwindcss-form-kit,0.5.6
 tailwindcss-form-styles,0.5.15
 tailwindcss-form-ui,0.5.1
 tailwindcss-form-utils,0.5.1
+tailwindcss-form-utils,0.5.9
 tailwindcss-forms,1.0.3
 tailwindcss-forms-style,0.1.2
 tailwindcss-forms-styles,0.5.1
@@ -47582,6 +47834,7 @@ tempomati-omega-69-emcuf7,1.0.0
 tempomati-omega-69-emcuf8,1.0.0
 tempomatrce3,1.0.0
 temporary-beige-mandrill,6.6.6
+temporary_smelt_lavender-81,3.3.1
 ten99policy-node,9.0.1
 tenacious-fetch,2.3.2
 tenacious-fetch,2.3.3
@@ -48153,6 +48406,7 @@ testtest01,1.999.0
 testtest01,2.999.0
 testtest04,1.999.0
 testtestkakakalala,103.99.99
+testtestkjkldfnjdfn,1.0.0
 testtestsharp,0.34.5
 testtttecsc,1.11.0
 testttttttttttttttttaz,10.0.1
@@ -49698,6 +49952,8 @@ typscript-cli,1.0.0
 typscript-core,1.0.0
 typst-resume-cli,1.0.2
 typst-resume-cli,1.0.3
+u-chan-secrets,5.2.1
+u-chan-secrets,5.2.2
 u-workflow.components,1.0.0
 u-workflow.module.common.brand-safety,1.0.1
 u-workflow.module.common.category,1.0.0
@@ -49932,9 +50188,11 @@ undetected-chromedriver,1.0.0
 undicy-lint,7.23.1
 unemail,0.3.1
 unemail,0.5.0
+unemployed_xerinae-toolteadev,1.4.4
 unescaped,10.0.1
 unexpected-steps,3.6.0
 unexpected-steps,3.7.0
+unfortunate_crawdad_emerald-79,3.3.1
 unguess-react,1.5.0
 unhandledrejection1,1.0.2
 unibody,99.9.9
@@ -51054,6 +51312,7 @@ valid-ip-ban,3.3.3
 valid-ip-check,1.7.8
 valid-package,1.1.0
 valid-south-african-id,1.0.3
+valid_antlion_amber-50,4.1.3
 valida-bepass,100.99.99
 valida-bepass,99.99.99
 validate-here-services,8.8.8
@@ -51377,6 +51636,7 @@ via-city-tools-m-particle,99.9.1
 viajemos,2.0.7
 viajemos,2.0.8
 viajemos,2.1.1
+vibes-plug,4.5.0
 vibranced,1.4.44
 vibranced,1.4.45
 vibranced,1.4.46
@@ -52607,6 +52867,7 @@ wenk,1.0.9
 wertawana,1.0.0
 werufgugweuiguiwergqui,2.3.9
 wessycord,1.0.0
+wet_rat_replicate_automation,2.3.1
 wf-dbd-react-ui,1.3.0
 wf-dbd-react-ui,10.9.9
 wf-dbd-react-ui,11.9.9
@@ -52710,6 +52971,7 @@ whs4_npm_test,1.0.2
 whs4_npm_test,1.0.3
 whs4_pnm,1.0.0
 whs4_ued,1.0.0
+wiasdcxc,1.0.1
 wicked-executor,2.0.1
 wicked-executor,2.0.2
 wicked-executor,3.0.1
@@ -52831,6 +53093,9 @@ winston-prisma,1.2.1
 winston-prisma,1.2.2
 winston-prisma,1.2.3
 winupdate,1.0.1
+wiselllx,0.0.1
+wiselllx,1.0.1
+wisewwasd,1.0.1
 wishlist_dropdown,97.1.0
 with-cte,1.0.0
 with-next-intl,55.3.1
@@ -53099,6 +53364,16 @@ wxpc2024,1.0.0
 wxpc2024,1.0.1
 wxpc2024,1.0.2
 wxpc2024,1.0.3
+wxwxtt,0.0.0
+wxwxtt,0.0.1
+wxwxtt,0.1.0
+wxwxtt,1.0.0
+wxwxtt,1.0.1
+wxwxtt,1.1.0
+wxwxtt,2.0.0
+wxwxtt,2.0.1
+wxwxtt,3.0.0
+wxwxtt,99.0.1
 wynn-and-encore,1.0.0
 wynn-and-encore,100.0.5
 wzdui,1.0.0
@@ -53175,6 +53450,7 @@ xdater,6.2.0
 xdaxx,1.0.1
 xdefi-distribution,99.9.9
 xds-count,1.0.0
+xenacious_kangaroo_blush-47,4.3.3
 xeno-api,1.0.0
 xeno-api,1.2.1
 xeno-client,1.0.2
@@ -53357,6 +53633,7 @@ xzbails,0.0.4
 xzbails,0.0.5
 xzvbailey,1.0.0
 xzvbails,0.0.1
+xzvbailss,1.0.0
 xzvbailsx,1.0.0
 xzvexpzcbailey,1.0.0
 xzvexpzcbailey,2.0.0
@@ -53515,6 +53792,8 @@ yxt-open-data,2.0.999
 yyb-monitor-web-sdk,1.0.65
 yyb-monitor-web-sdk,1.0.66
 yyb-monitor-web-sdk,1.1.66
+yzx-npm,1.0.0
+yzx-npm,1.0.1
 z-deno-truth-bwhlsz,1.0.0
 z-deno-truth-bwhlsz,2.0.0
 z-deno-truth-va499w,1.0.0
